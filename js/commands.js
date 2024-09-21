@@ -1,5 +1,5 @@
 var twitter = "twitter.png";
-var password = "sulabh";
+var password = "yeat";
 var linkedin = "linkedin.png";
 var instagram = "https://www.instagram.com/aayushuknow/";
 var github = "https://github.com/sulabh69";
